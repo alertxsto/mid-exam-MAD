@@ -1,0 +1,5 @@
+<resources>
+    <style name="Base.Theme.MidExamDwikyCandra" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.MidExamDwikyCandra" parent="Base.Theme.MidExamDwikyCandra" />
+</resources>

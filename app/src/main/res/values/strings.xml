@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MidExam-DwikyCandra</string>
+    <string name="student_records">Student records</string>
+    <string name="add_student">Add student</string>
+    <string name="save_changes">Save changes</string>
+    <string name="cancel">Cancel</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_id">Student ID</string>
+    <string name="has_enrolled">Has Enrolled</string>
+    <string name="view">View</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="no_students">No students saved yet.</string>
+    <string name="record_count">Students (%1$d)</string>
+    <string name="name_required">Enter a student name.</string>
+    <string name="id_required">Enter a student ID.</string>
+    <string name="id_taken">That student ID is already used.</string>
+    <string name="delete_title">Delete student?</string>
+    <string name="delete_message">Remove %1$s from the records?</string>
+    <string name="enrolled_yes">Enrolled</string>
+    <string name="enrolled_no">Not enrolled</string>
+    <string name="student_details">Student details</string>
+    <string name="details_body">Name: %1$s\nStudent ID: %2$s\nEnrollment: %3$s</string>
+    <string name="close">Close</string>
+</resources>
